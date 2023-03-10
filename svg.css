@@ -1,0 +1,19 @@
+.svg1{
+    width: 25%;
+    position: absolute;
+    right: 2%;
+}
+.svg2{
+    width: 25%;
+    position: absolute;
+    left: 2%;
+}
+.svgskills{
+    width: 34%;
+    position: absolute;
+    right: 39%;
+    top: 52%;
+    z-index: 0;
+    /* bottom: 119px; */
+    height: 595px;
+}
