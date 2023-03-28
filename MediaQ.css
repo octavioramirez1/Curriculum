@@ -1,0 +1,79 @@
+@media (max-width: 768px) {
+
+    .title {
+        margin-bottom: 0;
+        font-size: 40px;
+    }
+
+    .sau {
+        height: 100vh;
+    }
+    .navbar  {
+        
+        left: 21%;
+        top: 37%;
+    }
+    .head {
+        display: flow-root;
+        
+    }
+    .photoProfile {
+        position: absolute;
+        top: 0;
+        margin-right: 0px;
+        bottom: 0;
+        right: 74%;
+        left: 0px;
+    }
+    .photo  {
+        width: 100%;
+    }
+    .navbar a {
+        text-transform: none;
+        color: #fff;
+        text-decoration: none;
+        padding: 0px;
+        margin: 4px 4px;
+        font-size: 10px;
+    }
+    .titleW  {
+        font-size: 46px;
+        margin-top: 4%;
+    }
+    p  {
+        font-size: 12px;
+        margin-top: 11px;
+    }
+    .parraf1  {
+        top: 49%;
+    }
+    .parraf2  {
+        top: 33%;
+    }
+    .svgskills {
+        width: 38%;
+    position: absolute;
+    right: 62%;
+    top: 61%;
+    z-index: 0;
+    }
+
+    .references2  {
+        top: 36%;
+        position: relative;
+        right: 20%;
+    }
+    .iconContact  {
+       position: relative;
+       position: relative;
+    right: 10%;
+    top: 45%;
+    }
+    .photoCertificate  {
+        position: relative;
+      
+    }
+    }
+
+
+
